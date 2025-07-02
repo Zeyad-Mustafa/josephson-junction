@@ -5,7 +5,9 @@
 As part of my Master's studies in Semiconductor Technology with a focus on superconductivity, I've been investigating Josephson junctions and their remarkable quantum properties. This project emerged from my desire to better understand the practical behavior of these superconducting devices through computational modeling.
 
 Josephson junctions represent one of the most fascinating phenomena in superconductivity, where Cooper pairs tunnel through a barrier while maintaining quantum coherence. Through this simulation, I've explored both the DC Josephson effect (zero-voltage supercurrent) and AC Josephson effect (voltage-induced phase oscillations) that form the basis for many superconducting applications.
-
+## output examples
+![Josephson IV Curve](josephson_iv.png)
+![Josephson dynamics curve](josephson_dynamics.png)
 ## Features
 This Python package simulates key aspects of Josephson junction physics:
 - **DC Josephson Effect**: Models the supercurrent flow below critical current
