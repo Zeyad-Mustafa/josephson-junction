@@ -2,7 +2,7 @@
 # Josephson Junction Simulator
 
 ## Motivation
-As part of my Master's studies in Semiconductor Technology with a focus on superconductivity, I've been investigating Josephson junctions and their remarkable quantum properties. This project emerged from my desire to better understand the practical behavior of these superconducting devices through computational modeling.
+As part of my Master's studies in Semiconductor Technology,I have a class in this simster which is  focus on superconductivity, I've been investigating Josephson junctions and their remarkable quantum properties. This project emerged from my desire to better understand the practical behavior of these superconducting devices through computational modeling.
 
 Josephson junctions represent one of the most fascinating phenomena in superconductivity, where Cooper pairs tunnel through a barrier while maintaining quantum coherence. Through this simulation, I've explored both the DC Josephson effect (zero-voltage supercurrent) and AC Josephson effect (voltage-induced phase oscillations) that form the basis for many superconducting applications.
 ## output examples
